@@ -78,8 +78,8 @@ sempre que suas obras forem utilizadas; ou a utilização de materiais em domín
 público. Mesmo que a remuneração seja apenas uma pequena fração do valor gerado,
 tal medida representaria um avanço significativo. No entanto, enquanto a lógica do lucro
 prevalecer sobre considerações éticas, é provável que práticas questionáveis continuem
-a ocorrer no desenvolvimento de tecnologias de inteligência artificial.
-Fontes:
+a ocorrer no desenvolvimento de tecnologias de inteligência artificial.\
+Fontes:\
 https://www.theguardian.com/technology/2025/jan/10/mark-zuckerberg-meta-books-aimodels-sarah-silverman
 https://www.cnnbrasil.com.br/tecnologia/entenda-a-polemica-envolvendo-ia-e-o-studioghibli/
 https://forbes.com.br/forbes-tech/2024/12/openai-na-berlinda-por-violacao-de-direitoautoral-veja-como-se-proteger/
