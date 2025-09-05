@@ -4,7 +4,7 @@ e lançando sistemas de inteligência artificial, visando explorar um mercado co
 potencial. Nesse contexto, surgem questionamentos relevantes: de que forma e em
 quais ambientes essas IAs são treinadas? Quais bancos de dados são empregados
 nesse processo? Esses conjuntos de dados são de acesso público ou há, em alguma
-medida, apropriação indevida de propriedade intelectual? <br\>
+medida, apropriação indevida de propriedade intelectual?\
 Um caso recente ilustra a complexidade ética envolvendo a inteligência artificial
 na reprodução de estilos artísticos consagrados. Trata-se do estilo de animação
 característico dos estúdios Ghibli, responsáveis por obras como A Viagem de Chihiro e
