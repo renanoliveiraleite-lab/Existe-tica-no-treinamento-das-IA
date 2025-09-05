@@ -1,4 +1,4 @@
-# A first-level heading Existe ética no treinamento das IA
+# Existe ética no treinamento das IA
 Nos últimos anos, todas as grandes empresas de tecnologia vêm desenvolvendo
 e lançando sistemas de inteligência artificial, visando explorar um mercado com enorme
 potencial. Nesse contexto, surgem questionamentos relevantes: de que forma e em
