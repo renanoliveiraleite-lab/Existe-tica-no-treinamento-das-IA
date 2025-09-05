@@ -80,7 +80,7 @@ tal medida representaria um avanço significativo. No entanto, enquanto a lógic
 prevalecer sobre considerações éticas, é provável que práticas questionáveis continuem
 a ocorrer no desenvolvimento de tecnologias de inteligência artificial.\
 Fontes:\
-https://www.theguardian.com/technology/2025/jan/10/mark-zuckerberg-meta-books-ai-models-sarah-silverman,
-https://forbes.com.br/forbes-tech/2024/12/openai-na-berlinda-por-violacao-de-direito-autoral-veja-como-se-proteger/,
-https://www.cnnbrasil.com.br/tecnologia/entenda-a-polemica-envolvendo-ia-e-o-studio-ghibli/,
-https://www.cnnbrasil.com.br/tecnologia/google-e-processado-por-roubar-dados-de-usuarios-para-treinar-suas-ferramentas-de-ia/#goog_rewarded
+<https://www.theguardian.com/technology/2025/jan/10/mark-zuckerberg-meta-books-ai-models-sarah-silverman>
+<https://forbes.com.br/forbes-tech/2024/12/openai-na-berlinda-por-violacao-de-direito-autoral-veja-como-se-proteger/>
+<https://www.cnnbrasil.com.br/tecnologia/entenda-a-polemica-envolvendo-ia-e-o-studio-ghibli/>
+<https://www.cnnbrasil.com.br/tecnologia/google-e-processado-por-roubar-dados-de-usuarios-para-treinar-suas-ferramentas-de-ia/#goog_rewarded>
